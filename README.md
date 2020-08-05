@@ -1,8 +1,8 @@
 # Organizador-veterinaria-React
 
-##Deploy netlify
+## Deploy netlify
 
-(Go to webApp)[https://mystifying-thompson-25737d.netlify.app/]
+[Go to webApp](https://mystifying-thompson-25737d.netlify.app/)
 
 
 
